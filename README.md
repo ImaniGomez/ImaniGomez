@@ -1,4 +1,5 @@
-<h2>Hey there! I'm Imani</h2>
+<h2>Hey there! I'm Imani!</h2>
+<h3>Welcome to my GitHub profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2></h3>
 
 ### &nbsp;About Me
 
@@ -31,7 +32,6 @@
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImaniGomez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImaniGomez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
