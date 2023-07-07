@@ -3,10 +3,11 @@
 
 ### &nbsp;About Me
 
-💻 &nbsp; I am currently working on a solution to help script supervisors on film sets.\
+💻 &nbsp; I am currently working at NBCU SNY as a Broadcast Engineer Intern.\
 🎓 &nbsp; I'm currently studying Computer Science and Film and New York University.\
+🖼  &nbsp; In my free time I love to code and create solutions for modern day problems.\
 🌱 &nbsp; I would love to create technology for Film and TV one day.\
-✉️ &nbsp; You can shoot me an email at imanimgomez@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp; You can shoot me an email at imanimgomez@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
