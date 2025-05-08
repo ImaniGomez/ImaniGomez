@@ -4,7 +4,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a graduate student at NYU studying computer engineering. 
 - 📝 I got by bachelor's in film and television from NYU and I have a passion for film technology
-- 💻 &nbsp; I am currently working at Paramount as a Video Engineer Intern.
+- 💻 I am currently working at Paramount as a Video Engineer Intern.
 - 📖 Fun facts: I am an international figure skater and I love reading classics
 - 🧑‍💻 Tech I work on :
 
