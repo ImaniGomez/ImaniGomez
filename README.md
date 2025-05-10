@@ -17,7 +17,15 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniGomez&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
+    </a>
+</p>
 
+
+
+<!--
 ### My Stats:
 <p align="center">
     <a href="https://git.io/streak-stats">
@@ -28,3 +36,5 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniGomez&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
     </a>
 </p>
+-->
+
