@@ -18,3 +18,6 @@
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
 
+### My Stats: 
+https://github-readme-streak-stats.herokuapp.com/?user=ImaniGomez
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImaniGomez)](https://github.com/anuraghazra/github-readme-stats)
